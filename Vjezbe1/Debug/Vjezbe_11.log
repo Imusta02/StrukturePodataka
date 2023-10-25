@@ -1,0 +1,4 @@
+﻿  zadatak1.c
+C:\Users\Imtos\OneDrive\Desktop\Ivan Mustapić-Jogun\StrukturePodataka\Vjezbe1\zadatak1.c(26,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Imtos\OneDrive\Desktop\Ivan Mustapić-Jogun\StrukturePodataka\Vjezbe1\zadatak1.c(35,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Imtos\OneDrive\Desktop\Ivan Mustapić-Jogun\StrukturePodataka\Vjezbe1\zadatak1.c(42,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
